@@ -73,8 +73,6 @@ This dashboard provides an overview of a bank's loan performance for a specific 
     - Avg Interest Rate: 11.64%
     - Avg DTI: 13.17%
 
----
-
 ### Insights from Summary Dashboard:
 
 1. **Good Loan Issuance is High:**
@@ -90,8 +88,6 @@ This dashboard provides an overview of a bank's loan performance for a specific 
     - Loan applications, funded amounts, and received amounts have all increased, showing growth in lending activities.
 6. **Potential Risk in Charged-Off Loans:**
     - The charged-off category highlights an area of loss where $65.5M was funded, but only $37.3M was recovered.
-
----
 
 ### Recommendations by Using Summary Dashboard:
 
@@ -137,8 +133,6 @@ This **Bank Loan Report Overview Dashboard** provides a high-level summary of lo
     - **Renters:** 18.4K applications (dominant group)
     - **Mortgage Holders:** 17.2K applications.
 
----
-
 ### Insights From Overview Dashboard:
 
 1. **Growth Trends:**
@@ -154,7 +148,6 @@ This **Bank Loan Report Overview Dashboard** provides a high-level summary of lo
 6. **State-Wise Distribution:**
     - Loan activity is concentrated in certain states, providing an opportunity to analyze local economic factors influencing borrowing.
 
----
 
 ### Recommendations by Using  Overview Dashboard:
 
@@ -181,13 +174,9 @@ This **Bank Loan Report Overview Dashboard** provides a high-level summary of lo
 
 This **Bank Loan Report Details Dashboard** provides an in-depth breakdown of individual loan records, segmented by purpose, home ownership, grade, sub-grade, issue date, interest rate, and financial metrics such as funded amount, installment, and amount received.
 
----
-
 ### **Key Sections of the Dashboard:**
 
 ### **Overall Metrics: Same as Summary Dashboard**
-
----
 
 ### **Details of Loan Records:**
 
@@ -211,8 +200,6 @@ This **Bank Loan Report Details Dashboard** provides an in-depth breakdown of in
 5. **Date of Issue:**
     - Loans are tracked monthly, showing consistent activity throughout the year.
 
----
-
 ### Insights From Details Dashboard:
 
 1. **Debt Consolidation Dominance:**
@@ -225,9 +212,7 @@ This **Bank Loan Report Details Dashboard** provides an in-depth breakdown of in
     - Clear correlation between grades/sub-grades and interest rates, with better grades securing more favorable terms.
 5. **Installment and Loan Size Correlation:**
     - Larger loans (e.g., $25,000) have higher monthly installments, reflecting repayment capability.
-
----
-
+      
 ### Recommendations by Using Details Dashboard:
 
 1. **Risk-Reward Balancing:**
@@ -242,7 +227,5 @@ This **Bank Loan Report Details Dashboard** provides an in-depth breakdown of in
     - Use detailed metrics (grades, funded amounts, DTI) for predictive modeling to identify borrowers with higher repayment potential.
 6. **Loan Repayment Analytics:**
     - Monitor received amounts closely to identify patterns in timely repayments and defaults.
-
----
 
 ### This detailed dashboard enables the bank to track individual loans, understand borrower segmentation, and refine loan policies to improve portfolio performance and profitability.
