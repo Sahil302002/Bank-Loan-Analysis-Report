@@ -22,10 +22,13 @@ Dataset Used in this Project
 <a href = "Bank_Loan_Data.csv">Bank Loan Dataset</a>
 
 Power  BI Report made in this Project
-<a href ="Bank Loan Report.pbix">Bank Loan Report</a>
+<a href ="Bank Loan Report.pbix">Bank Loan Analysis Report</a>
 
 SQL Script made in SQL Server Management System(SSMS)
 <a href = "BankLoanScript.sql">Bank Loan SQL Script</a>
+
+This is the Screenshots of all SQL Queries and its Result which I ran in SSMS
+<a href = "Bank Loan Report SQL Queries .pdf"> Bank Loan SQL Report
 
 ---
 
