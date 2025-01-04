@@ -17,6 +17,10 @@ In this project, I leveraged my Data Analytics skills using Power BI to create t
     - Developed actionable insights to optimize loan offerings, reduce risk, and boost profitability.
     - Provided recommendations for targeted marketing strategies and risk mitigation plans.
     - **Validated Data Accuracy**: Used SQL queries to ensure the data displayed on the dashboards was accurate and consistent with the underlying database.
+
+Dataset Used in this Project
+<a href = "Bank_Loan_Data.csv">Bank Loan Dataset</a>
+
 ---
 
 # Summary Dashboard
