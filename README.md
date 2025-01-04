@@ -21,6 +21,9 @@ In this project, I leveraged my Data Analytics skills using Power BI to create t
 Dataset Used in this Project
 <a href = "Bank_Loan_Data.csv">Bank Loan Dataset</a>
 
+Power  BI Report made in this Project
+<a href ="Bank Loan Report.pbix">Bank Loan Report</a>
+
 ---
 
 # Summary Dashboard
