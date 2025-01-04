@@ -30,6 +30,9 @@ SQL Script made in SQL Server Management System(SSMS)
 This is the Screenshots of all SQL Queries and its Result which I ran in SSMS
 <a href = "Bank Loan Report SQL Queries .pdf"> Bank Loan SQL Report
 
+This is SQL Queries Script which I ran in a SSMS
+<a href = "BankLoanScript.sql">Bank Loan SQL Script</a>
+
 ---
 
 # Summary Dashboard
