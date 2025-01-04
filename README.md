@@ -13,7 +13,10 @@ In this project, I leveraged my Data Analytics skills using Power BI to create t
 3. **Details Dashboard**:
     - Offered a detailed breakdown of individual loan records, segmented by purpose, home ownership, loan grades, and financial metrics.
     - Insights focused on debt consolidation as the dominant loan purpose, interest rate variations, and loan repayment correlations.
-
+4. **Key Achievements**:
+    - Developed actionable insights to optimize loan offerings, reduce risk, and boost profitability.
+    - Provided recommendations for targeted marketing strategies and risk mitigation plans.
+    - **Validated Data Accuracy**: Used SQL queries to ensure the data displayed on the dashboards was accurate and consistent with the underlying database.
 ---
 
 # Summary Dashboard
