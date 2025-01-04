@@ -24,6 +24,9 @@ Dataset Used in this Project
 Power  BI Report made in this Project
 <a href ="Bank Loan Report.pbix">Bank Loan Report</a>
 
+SQL Script made in SQL Server Management System(SSMS)
+<a href = "BankLoanScript.sql">Bank Loan SQL Script</a>
+
 ---
 
 # Summary Dashboard
