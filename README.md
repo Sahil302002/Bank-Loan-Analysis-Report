@@ -127,6 +127,8 @@ This dashboard provides an overview of a bank's loan performance for a specific 
 
 # Overview Dashboard
 
+![Overview](https://github.com/user-attachments/assets/1fa626bf-ea2a-4758-a6cf-cff1cd837b63)
+
 This **Bank Loan Report Overview Dashboard** provides a high-level summary of loan applications, their distribution, and key insights into loan performance. It includes visualizations and metrics such as total loan applications, funded and received amounts, interest rates, debt-to-income (DTI) ratios, and segmentation by various factors like state, employee length, purpose, and home ownership.
 
 ### **Key Sections of the Dashboard:**
