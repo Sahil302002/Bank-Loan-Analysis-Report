@@ -190,6 +190,8 @@ This **Bank Loan Report Overview Dashboard** provides a high-level summary of lo
 
 # Details Dashboard
 
+![Details](https://github.com/user-attachments/assets/474a8989-1467-4ea2-86c4-016788ce563f)
+
 This **Bank Loan Report Details Dashboard** provides an in-depth breakdown of individual loan records, segmented by purpose, home ownership, grade, sub-grade, issue date, interest rate, and financial metrics such as funded amount, installment, and amount received.
 
 ### **Key Sections of the Dashboard:**
