@@ -31,6 +31,9 @@ SQL Script made in SQL Server Management System(SSMS)
 
 # Summary Dashboard
 
+![Summary](https://github.com/user-attachments/assets/8a4edef6-87af-417d-b6a1-a75f29467081)
+
+
 This dashboard provides an overview of a bank's loan performance for a specific period. It includes key metrics and visual insights into good and bad loans, loan applications, and financial performance.
 
 ### **Key Metrics:**
